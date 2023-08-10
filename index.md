@@ -8,9 +8,9 @@
 * [Textbook (Think Python)](https://greenteapress.com/wp/think-python-2e/)
 * [Homework assignments](hw)
 * [QRA](qra.md)
-* [Exams](exams.md)&nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 5/2/2023</font>
+<!-- * [Exams](exams.md)&nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 5/2/2023</font> -->
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=52046)
 
 
 ----
-Last modified: Thu Aug 10 18:43:58 UTC 2023 by jmac.
+Last modified: Thu Aug 10 18:55:24 UTC 2023 by jmac.
