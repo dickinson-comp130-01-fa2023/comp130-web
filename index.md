@@ -2,7 +2,7 @@
 
 <!-- ![WCBC with cat](wcbc-cat.jpg) -->
 
-* [Syllabus](syllabus-8-10-2023.docx)
+* [Syllabus](syllabus-8-11-2023.docx)
 * [Overview Schedule](schedule-8-10-2023.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font> -->
 * [Detailed schedule](resources)
 * [Textbook (Think Python)](https://greenteapress.com/wp/think-python-2e/)
@@ -14,4 +14,4 @@
 
 
 ----
-Last modified: Thu Aug 10 19:16:42 UTC 2023 by jmac.
+Last modified: Fri Aug 11 13:18:51 UTC 2023 by jmac.
