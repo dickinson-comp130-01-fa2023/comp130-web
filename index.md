@@ -11,7 +11,11 @@
 * [QRA](qra.md)
 <!-- * [Exams](exams.md)&nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 5/2/2023</font> -->
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=52046)
+* [Python Standard Library](https://docs.python.org/3/library/index.html) reference at python.org
+  - [string
+    methods](https://docs.python.org/3/library/stdtypes.html#string-methods),
+    in the Python Standard Library
 
 
 ----
-Last modified: Fri Aug 11 13:18:51 UTC 2023 by jmac.
+Last modified: Fri Aug 11 13:43:01 UTC 2023 by jmac.
