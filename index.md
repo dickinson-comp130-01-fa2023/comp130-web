@@ -15,7 +15,8 @@
   - [string
     methods](https://docs.python.org/3/library/stdtypes.html#string-methods),
     in the Python Standard Library
+* [Acknowledgment](acknowledgment.md)
 
 
 ----
-Last modified: Fri Aug 11 13:43:01 UTC 2023 by jmac.
+Last modified: Tue Aug 15 11:41:16 UTC 2023 by jmac.
