@@ -15,3 +15,7 @@ in the order of the assignment.
 Assignments:
 
 *   [homework assignment 1](hw1.docx)
+*   [homework assignment 2](hw2.docx)
+*   [homework assignment 3](hw3.docx)
+*   [homework assignment 4](hw4.docx)
+*   [homework assignment 5](hw5.docx)
