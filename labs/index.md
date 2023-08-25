@@ -19,5 +19,7 @@ Lab 1 partners (assigned randomly):
 
 Lab instructions:
 
-*   [lab 1 instructions](lab01/lab01.docx)
-*   [lab 2 instructions](lab02/lab02.docx)
+*   [lab 1 instructions](lab01.docx)
+*   [lab 2 instructions](lab02.docx)
+*   [lab 3 instructions](lab03.docx)
+*   [lab 4 instructions](lab04.docx)
