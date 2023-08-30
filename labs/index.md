@@ -5,7 +5,7 @@ Lab 1 partners (assigned randomly):
 | partner 1         | partner 2          |
 |-------------------|--------------------|
 | Arthur Trinh      | Liam Roberts       |
-| Ashley Groff      | Max Abah           |
+| Ashley Groff      | Anne Pham          |
 | Ben Brandt        | Maxwell Collins    |
 | Fathima Mohammadi | Nam Nguyen         |
 | Harrison Nguyen   | Nishtha Sharma     |
@@ -16,6 +16,7 @@ Lab 1 partners (assigned randomly):
 | Kate Mackin       | Son Nguyen         |
 | Kevin Tran        | Tumi Olanrewaju    |
 | Leah Ho           | Zaana Gurung       |
+| Max Abah          |
 
 Lab instructions:
 
