@@ -12,7 +12,7 @@
   
 Today we review the concepts in the assigned reading, including script mode, order of operations, string operations, comments, function calls, and math functions.
 
-
+Example programs: [area.py](class03/area.py), [ask_question.py](class03/ask_question.py)
 
 
 ## Class 2
@@ -56,4 +56,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Thu Aug 31 13:24:35 UTC 2023 by jmac.
+---- Last modified: Fri Sep 01 14:18:53 UTC 2023 by jmac.
