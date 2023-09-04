@@ -1,6 +1,27 @@
 # Detailed schedule and resources
 
 
+## Class 4
+
+Important note about the teaching style in this course: Many concepts
+will not be covered during our lecture session. It is essential to
+read the textbook carefully and ask questions on any content you don't
+understand. For example, the assigned reading for Class 3 included the
+important concept of *string concatenation*, but we did not discuss
+that during class.
+
+New link on main homepage: supplementary study guide.
+
+Plan for today: We will go over some key concepts from the assigned
+reading, especially how to define new functions and how to generate
+random numbers.
+
+Note that for section 13.2, you are not expected to understand all of
+this content. The only things we need from this section are:
+* `import random`
+* `random.randint()`
+
+
 ## Class 3
 
 * Make sure that you have Show File Extensions turned on in your
@@ -56,4 +77,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Fri Sep 01 14:18:53 UTC 2023 by jmac.
+---- Last modified: Mon Sep 04 02:14:19 UTC 2023 by jmac.
