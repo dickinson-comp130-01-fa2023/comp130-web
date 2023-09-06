@@ -8,9 +8,8 @@ Agenda for today's class:
    loops, which explains how to use the loop variable.
 2. We'll begin working through the textbook exercises in section 4.3.
 
-
-
-
+Useful tip: Learn how to use IDLE's Indent Region and Dedent Region
+features, in the Format menu.
 
 
 ## Class 4
@@ -110,4 +109,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Wed Sep 06 03:32:18 UTC 2023 by jmac.
+---- Last modified: Wed Sep 06 03:34:31 UTC 2023 by jmac.
