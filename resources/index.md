@@ -1,6 +1,15 @@
 # Detailed schedule and resources
 
 
+## Class 5
+
+
+
+
+
+
+
+
 ## Class 4
 
 Important note about the teaching style in this course: Many concepts
@@ -20,6 +29,27 @@ Note that for section 13.2, you are not expected to understand all of
 this content. The only things we need from this section are:
 * `import random`
 * `random.randint()`
+
+#### Hopefully you will never need this advice, but just in case...
+
+1. At the end of class, we saw a mysterious "unexpected indent" error
+   from IDLE. Usually, this is caused by indenting your code
+   incorrectly. However, it can also be caused by certain invisible
+   characters in the Python file. Different computer systems use
+   different specialized characters for representing the end of a
+   line, and it is possible for IDLE to report these characters as
+   causing an indentation error. One easy way to remove all unwanted
+   end-of-line characters is to copy and paste your code into this
+   [end-of-line fixer website](https://ryanve.dev/eol/). Click
+   "Convert line endings to LF", copy the output into a new file, and
+   now the weird characters have been removed from your Python script.
+
+2. I have also occasionally seen the presence of certain invisible
+   characters prevent IDLE from saving a file. If IDLE refuses to
+   save, you should create a new file and paste your code into it
+   after following step 1 above to ensure that any weird invisible
+   characters have been removed.
+
 
 
 ## Class 3
@@ -77,4 +107,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Mon Sep 04 02:14:19 UTC 2023 by jmac.
+---- Last modified: Wed Sep 06 02:40:42 UTC 2023 by jmac.
