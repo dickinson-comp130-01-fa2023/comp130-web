@@ -3,7 +3,10 @@
 
 ## Class 5
 
-
+Agenda for today's class:
+1. We'll go over the supplementary study guide content about `for`
+   loops, which explains how to use the loop variable.
+2. We'll begin working through the textbook exercises in section 4.3.
 
 
 
@@ -107,4 +110,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Wed Sep 06 02:40:42 UTC 2023 by jmac.
+---- Last modified: Wed Sep 06 03:32:18 UTC 2023 by jmac.
