@@ -9,7 +9,11 @@ Just for interest: if you want to find out about one of the areas of
 computer science that I'm interested in, check out today's episode
 (September 8) of a radio show called The Academic Minute, which is
 broadcast on about 70 radio stations in North America. It's also
-available as a podcast: [The Academic Minute NPR podcast](https://www.npr.org/podcasts/564572329/the-academic-minute)
+available as a podcast: [The Academic Minute NPR
+podcast](https://www.npr.org/podcasts/564572329/the-academic-minute)
+
+Code from class (slightly improved version compared to what was shown
+in class): [graphics_demo.py](class06/graphics_demo.py)
 
 
 ## Class 5
@@ -120,4 +124,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Fri Sep 08 12:11:21 UTC 2023 by jmac.
+---- Last modified: Fri Sep 08 13:54:32 UTC 2023 by jmac.
