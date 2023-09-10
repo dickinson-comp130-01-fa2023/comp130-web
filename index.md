@@ -10,7 +10,7 @@
 * [Labs](labs)
 * [How do I get help in this course?](help.md)
 <!-- * [Exams](exams.md)&nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 5/2/2023</font> -->
-* [Supplementary study guide](study-guide/study-guide-9-7-2023.docx) <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/7/2023</font> -->
+* [Supplementary study guide](study-guide/study-guide-9-10-2023.docx) &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 9/10/2023</font>
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=52046)
 * [Python Standard Library](https://docs.python.org/3/library/index.html) reference at python.org
   - [string
@@ -23,4 +23,4 @@
 
 
 ----
-Last modified: Sun Sep 10 12:54:15 UTC 2023 by jmac.
+Last modified: Sun Sep 10 17:09:10 UTC 2023 by jmac.
