@@ -1,5 +1,16 @@
 # Detailed schedule and resources
 
+## Class 7
+
+Today we cover topics from the assigned textbook reading, including
+floor division and modulus, boolean expressions, relational operators
+(`==`, `!=`, `>`, `>=` etc.), logical operators (`and`, `or`, `not`),
+conditional execution (`if`, `else`).
+
+Example Python code (but try to do the warmup exercise yourself before
+looking at this): [convert_miles.py](class07/convert_miles.py), [boolean_demos.py](class07/boolean_demos.py)
+
+
 ## Class 6
 
 Today we cover Sections 4-7 of the supplementary study guide: nested
@@ -124,4 +135,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Fri Sep 08 13:54:32 UTC 2023 by jmac.
+---- Last modified: Sun Sep 10 14:14:12 UTC 2023 by jmac.
