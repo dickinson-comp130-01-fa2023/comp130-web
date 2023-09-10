@@ -3,14 +3,14 @@
 <!-- ![WCBC with cat](wcbc-cat.jpg) -->
 
 * [Syllabus](syllabus-8-24-2023.docx)
-* [Overview Schedule](comp130-schedule-9-7-2023.xlsx)  &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/7/2023</font>
+* [Overview Schedule](comp130-schedule-9-10-2023.xlsx)  &nbsp;&nbsp;&nbsp;<font color="green">minor update on 9/10/2023</font>
 * [Detailed schedule and resources](resources)
 * [Textbook (Think Python)](https://greenteapress.com/wp/think-python-2e/)
 * [Homework assignments](hw)
 * [Labs](labs)
 * [How do I get help in this course?](help.md)
 <!-- * [Exams](exams.md)&nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 5/2/2023</font> -->
-* [Supplementary study guide](study-guide/study-guide-9-7-2023.docx) &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/7/2023</font>
+* [Supplementary study guide](study-guide/study-guide-9-7-2023.docx) <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/7/2023</font> -->
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=52046)
 * [Python Standard Library](https://docs.python.org/3/library/index.html) reference at python.org
   - [string
@@ -18,8 +18,9 @@
     in the Python Standard Library
   - [Turtle graphics](https://docs.python.org/3/library/turtle.html), also in the Python Standard Library
 * `graphics.py` module [documentation](https://mcsp.wartburg.edu/zelle/python/graphics/graphics/graphref.html), [code](https://mcsp.wartburg.edu/zelle/python/graphics.py), [author's Python page](https://mcsp.wartburg.edu/zelle/python/)
+* [Readings](readings.md)   &nbsp;&nbsp;&nbsp;<font color="green">ADDED on 9/7/2023</font>
 * [Acknowledgment](acknowledgment.md)
 
 
 ----
-Last modified: Fri Sep 08 02:25:26 UTC 2023 by jmac.
+Last modified: Sun Sep 10 12:54:15 UTC 2023 by jmac.
