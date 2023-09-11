@@ -10,6 +10,9 @@ conditional execution (`if`, `else`).
 Example Python code (but try to do the warmup exercise yourself before
 looking at this): [convert_miles.py](class07/convert_miles.py), [boolean_demos.py](class07/boolean_demos.py)
 
+Optional: A "real" example of using conditionals, using the Scratch
+programming language: [Potion making](https://scratch.mit.edu/projects/889677445), by Scratch user [cc196](https://scratch.mit.edu/users/cc196/). Click on "See inside" then "Backdrops 1" to see a lot of nested `if/else`s
+
 
 ## Class 6
 
@@ -135,4 +138,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Sun Sep 10 14:14:12 UTC 2023 by jmac.
+---- Last modified: Mon Sep 11 01:41:26 UTC 2023 by jmac.
