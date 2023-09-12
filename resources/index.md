@@ -1,5 +1,14 @@
 # Detailed schedule and resources
 
+## Class 8
+
+We cover cascading conditional statements and nested conditional
+statements. Example Python code: [convert_miles2.py](class08/convert_miles2.py)
+
+We will also go over sections 8 to 10 of the supplementary study
+guide, which are needed for lab this afternoon.
+
+
 ## Class 7
 
 Today we cover topics from the assigned textbook reading, including
@@ -138,4 +147,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Mon Sep 11 01:41:26 UTC 2023 by jmac.
+---- Last modified: Tue Sep 12 23:56:41 UTC 2023 by jmac.
