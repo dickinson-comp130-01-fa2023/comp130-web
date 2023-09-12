@@ -1,5 +1,25 @@
 # Lab partners
 
+Lab 3 partners (mostly the same again -- we will be changing to new
+partners next week):
+
+| partner 1         | partner 2          |
+|-------------------|--------------------|
+| Arthur Trinh      | Liam Roberts       |
+| Max Abah          | Anne Pham          |
+| Ben Brandt        | Maxwell Collins    |
+| Fathima Mohammadi | Nam Nguyen         |
+| Harrison Nguyen   | Nishtha Sharma     |
+| Heeryung Choi     | Olivia Hobbs       |
+| HyunYoung Cho     | Paul MacDonald     |
+| Jenna Nowland     | Phu Nguyen         |
+| Jessie Pham       | Kevin Tran         |
+| Kate Mackin       | Son Nguyen         |
+| Minh Le           | Tumi Olanrewaju    |
+| Leah Ho           | Zaana Gurung       |
+
+
+
 Lab 2 partners (mostly the same as Lab 1):
 
 | partner 1         | partner 2          |
