@@ -8,6 +8,11 @@ statements. Example Python code: [convert_miles2.py](class08/convert_miles2.py)
 We will also go over sections 8 to 10 of the supplementary study
 guide, which are needed for lab this afternoon.
 
+Please take a look at the extra question that is in the solutions of
+homework assignment 2. You need to understand how to answer this type
+of question (distinguishing between function calls in a module and
+method calls on an object).
+
 
 ## Class 7
 
@@ -147,4 +152,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Tue Sep 12 23:56:41 UTC 2023 by jmac.
+---- Last modified: Wed Sep 13 01:52:01 UTC 2023 by jmac.
