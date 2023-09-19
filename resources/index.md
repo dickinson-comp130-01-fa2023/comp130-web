@@ -1,5 +1,14 @@
 # Detailed schedule and resources
 
+## Class 11
+
+Demo code: [callstack_demo.py](class11/callstack_demo.py)
+
+
+## Class 10
+
+Social/Ethical discussion I. See Readings web page.
+
 ## Class 9
 
 Mostly review of chained and nested conditional statements. 
@@ -166,4 +175,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Fri Sep 15 02:42:00 UTC 2023 by jmac.
+---- Last modified: Tue Sep 19 02:25:36 UTC 2023 by jmac.

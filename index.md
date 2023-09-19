@@ -3,14 +3,14 @@
 <!-- ![WCBC with cat](wcbc-cat.jpg) -->
 
 * [Syllabus](syllabus-8-24-2023.docx)
-* [Overview Schedule](comp130-schedule-9-12-2023.xlsx)  &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 9/12/2023</font>
+* [Overview Schedule](comp130-schedule-9-18-2023.xlsx)  &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 9/18/2023</font>
 * [Detailed schedule and resources](resources)
 * [Textbook (Think Python)](https://greenteapress.com/wp/think-python-2e/)
 * [Homework assignments](hw)
 * [Labs](labs)
 * [How do I get help in this course?](help.md)
 * [Exams](exams.md)&nbsp;&nbsp;&nbsp;<font color="red">ADDED on 9/13/2023</font>
-* [Supplementary study guide](study-guide/study-guide-9-12-2023.docx) &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 9/12/2023</font>
+* [Supplementary study guide](study-guide/study-guide-9-18-2023.docx) &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 9/18/2023</font>
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=52046)
 * [Python Standard Library](https://docs.python.org/3/library/index.html) reference at python.org
   - [string
@@ -23,4 +23,4 @@
 
 
 ----
-Last modified: Wed Sep 13 11:24:00 UTC 2023 by jmac.
+Last modified: Tue Sep 19 02:23:21 UTC 2023 by jmac.
