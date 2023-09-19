@@ -1,21 +1,21 @@
 # Lab partners
 
-<!-- Lab 4 partners (new partners) -->
+Lab 4 partners (new partners)
 
-<!-- | partner 1         | partner 2          | -->
-<!-- |-------------------|--------------------| -->
-<!-- |Max Abah           |  Olivia Hobbs      | -->
-<!-- |Maxwell Collins    |  Fathima Mohammadi | -->
-<!-- |Leah Ho            |  Nam Nguyen        | -->
-<!-- |Minh Le            |  HyunYoung Cho     | -->
-<!-- |Paul MacDonald     |  Son Nguyen        | -->
-<!-- |Kate Mackin        |  Heeryung Choi     | -->
-<!-- |Harrison Nguyen    |  Ben Brandt        | -->
-<!-- |Phu Nguyen         |  Liam Roberts      | -->
-<!-- |Jenna Nowland      |  Arthur Trinh      | -->
-<!-- |Tumi Olanrewaju    |  Nishtha Sharma    | -->
-<!-- |Jessie Pham        |  Anne Pham         | -->
-<!-- |Kevin Tran         |  Zaana Gurung      | -->
+| partner 1         | partner 2          |
+|-------------------|--------------------|
+|Max Abah           |  Olivia Hobbs      |
+|Maxwell Collins    |  Fathima Mohammadi |
+|Leah Ho            |  Nam Nguyen        |
+|Minh Le            |  HyunYoung Cho     |
+|Paul MacDonald     |  Son Nguyen        |
+|Kate Mackin        |  Heeryung Choi     |
+|Harrison Nguyen    |  Ben Brandt        |
+|Phu Nguyen         |  Liam Roberts      |
+|Jenna Nowland      |  Arthur Trinh      |
+|Tumi Olanrewaju    |  Nishtha Sharma    |
+|Jessie Pham        |  Anne Pham         |
+|Kevin Tran         |  Zaana Gurung      |
 
 Lab 3 partners (mostly the same again -- we will be changing to new
 partners next week):

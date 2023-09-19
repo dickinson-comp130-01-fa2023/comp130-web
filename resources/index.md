@@ -2,7 +2,7 @@
 
 ## Class 11
 
-Demo code: [callstack_demo.py](class11/callstack_demo.py)
+Demo code: [debug_demo.py](class11/debug_demo.py), [callstack_demo.py](class11/callstack_demo.py)
 
 
 ## Class 10
@@ -175,4 +175,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Tue Sep 19 02:25:36 UTC 2023 by jmac.
+---- Last modified: Tue Sep 19 15:01:10 UTC 2023 by jmac.
