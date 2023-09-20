@@ -18,4 +18,4 @@ Lab instructions:
     fine to display all squares the same color. The grading will give
     a weight of 75% to question 1 and 25% to the required part of
     question 2.
-<!-- * [lab 4 instructions](lab04.docx) -->
+* [lab 4 instructions](lab04.docx)
