@@ -9,7 +9,7 @@
 * [Homework assignments](hw)
 * [Labs](labs)
 * [How do I get help in this course?](help.md)
-* [Exams](exams.md)&nbsp;&nbsp;&nbsp;<font color="red">ADDED on 9/13/2023</font>
+* [Exams](exams.md)<!-- &nbsp;&nbsp;&nbsp;<font color="red">ADDED on 9/13/2023</font> -->
 * [Supplementary study guide](study-guide/study-guide-9-21-2023.docx) &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 9/21/2023</font>
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=52046)
 * [Python Standard Library](https://docs.python.org/3/library/index.html) reference at python.org
@@ -18,9 +18,9 @@
     in the Python Standard Library
   - [Turtle graphics](https://docs.python.org/3/library/turtle.html), also in the Python Standard Library
 * `graphics.py` module [documentation](https://mcsp.wartburg.edu/zelle/python/graphics/graphics/graphref.html), [code](https://mcsp.wartburg.edu/zelle/python/graphics.py), [author's Python page](https://mcsp.wartburg.edu/zelle/python/)
-* [Readings](readings.md)   &nbsp;&nbsp;&nbsp;<font color="green">ADDED on 9/7/2023</font>
+* [Readings](readings.md)<!-- &nbsp;&nbsp;&nbsp;<font color="green">ADDED on 9/7/2023</font> -->
 * [Acknowledgment](acknowledgment.md)
 
 
 ----
-Last modified: Thu Sep 21 13:37:41 UTC 2023 by jmac.
+Last modified: Thu Sep 21 13:40:49 UTC 2023 by jmac.
