@@ -17,5 +17,5 @@ Assignments:
 *   [homework assignment 1](hw1.docx)
 *   [homework assignment 2](hw2-v2.docx) &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/8/2023</font>
 *   [homework assignment 3](hw3.docx)
-*   [homework assignment 4](hw4.docx)
+*   [homework assignment 4](hw4-v2.docx) &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/21/2023</font> (added hints)
 *   [homework assignment 5](hw5.docx)
