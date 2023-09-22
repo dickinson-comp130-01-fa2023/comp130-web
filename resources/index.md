@@ -1,5 +1,16 @@
 # Detailed schedule and resources
 
+## Class 12
+
+* Overview of how to book an appointment with a QR tutor at the [QR
+  center](https://www.dickinson.edu/info/20525/quantitative_reasoning_center/2962/quantitative_reasoning_center).
+* Informal discussion of the *scope* of a variable: most variables and
+  parameters are *local*.
+* Review of call stack and debugging.
+* Printing on the same line from multiple `print()` statements.
+* Review of void and fruitful functions.
+
+
 ## Class 11
 
 Demo code: [debug_demo.py](class11/debug_demo.py), [callstack_demo.py](class11/callstack_demo.py)
@@ -175,4 +186,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Tue Sep 19 15:01:10 UTC 2023 by jmac.
+---- Last modified: Fri Sep 22 11:16:58 UTC 2023 by jmac.
