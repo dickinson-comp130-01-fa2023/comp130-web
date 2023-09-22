@@ -2,6 +2,8 @@
 
 ## Class 12
 
+* Updated version of HW4 is available (same questions, but with
+  some additional hints and clarifications).
 * Overview of how to book an appointment with a QR tutor at the [QR
   center](https://www.dickinson.edu/info/20525/quantitative_reasoning_center/2962/quantitative_reasoning_center).
 * Informal discussion of the *scope* of a variable: most variables and
@@ -186,4 +188,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Fri Sep 22 11:16:58 UTC 2023 by jmac.
+---- Last modified: Fri Sep 22 11:17:50 UTC 2023 by jmac.
