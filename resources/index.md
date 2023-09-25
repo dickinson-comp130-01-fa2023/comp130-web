@@ -1,5 +1,7 @@
 # Detailed schedule and resources
 
+
+
 ## Class 12
 
 Announcements:
@@ -192,4 +194,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Fri Sep 22 11:20:53 UTC 2023 by jmac.
+---- Last modified: Sun Sep 24 15:07:16 UTC 2023 by jmac.

@@ -15,7 +15,8 @@ Lab 4 partners (new partners)
 |Jenna Nowland      |  Arthur Trinh      |
 |Tumi Olanrewaju    |  Nishtha Sharma    |
 |Jessie Pham        |  Anne Pham         |
-|Kevin Tran         |  Zaana Gurung      |
+|Kevin Tran         |                    |
+|Zaana Gurung       |                    |
 
 Lab 3 partners (mostly the same again -- we will be changing to new
 partners next week):
