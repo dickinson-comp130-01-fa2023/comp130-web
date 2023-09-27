@@ -1,5 +1,11 @@
 # Detailed schedule and resources
 
+## Class 15
+
+Code for demonstrating guardians:
+* [no_guardian.py](class15/no_guardian.py)
+* [guardian.py](class15/guardian.py)
+
 ## Class 14
 
 Code for demonstrating and encapsulation and generalization:
@@ -210,4 +216,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Wed Sep 27 01:54:50 UTC 2023 by jmac.
+---- Last modified: Wed Sep 27 13:49:01 UTC 2023 by jmac.
