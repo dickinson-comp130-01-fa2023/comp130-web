@@ -19,4 +19,5 @@ Lab instructions:
     a weight of 75% to question 1 and 25% to the required part of
     question 2.
 * [lab 4 instructions](lab04.docx)
+* [lab 5 instructions](lab05.docx)
 <!-- * [lab 10 instructions](lab10-final-project.docx), [lab 10 materials](lab10-materials.zip) -->
