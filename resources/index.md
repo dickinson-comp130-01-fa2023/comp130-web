@@ -1,5 +1,21 @@
 # Detailed schedule and resources
 
+## Class 14
+
+Code for demonstrating and encapsulation and generalization:
+* [top_level_code.py](class14/top_level_code.py)
+* [encapsulate.py](class14/encapsulate.py)
+* [generalize.py](class14/generalize.py)
+
+Code for demonstrating factoring out repeated code:
+* [repeated.py](class14/repeated.py)
+* [factored_out.py](class14/factored_out.py)
+
+
+
+## Class 13
+
+Social/Ethical discussion II. See Readings web page.
 
 
 ## Class 12
@@ -194,4 +210,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Sun Sep 24 15:07:16 UTC 2023 by jmac.
+---- Last modified: Wed Sep 27 01:54:50 UTC 2023 by jmac.
