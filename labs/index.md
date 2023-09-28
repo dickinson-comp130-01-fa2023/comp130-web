@@ -20,5 +20,5 @@ Lab instructions:
     question 2.
 * [lab 4 instructions](lab04.docx)
 * [lab 5 instructions](lab05-v2.docx) &nbsp;&nbsp;&nbsp;<font color="red">minor change to the optional part on 9/28/2023</font>
-* [lab 6 instructions](lab06.docx), extra materials: [lab06-materials.zip](lab06-materials.zip)
+<!-- * [lab 6 instructions](lab06.docx), extra materials: [lab06-materials.zip](lab06-materials.zip) -->
 <!-- * [lab 10 instructions](lab10-final-project.docx), [lab 10 materials](lab10-materials.zip) -->

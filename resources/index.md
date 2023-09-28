@@ -6,6 +6,8 @@ Code for demonstrating guardians:
 * [no_guardian.py](class15/no_guardian.py)
 * [guardian.py](class15/guardian.py)
 
+
+
 ## Class 14
 
 Code for demonstrating and encapsulation and generalization:
@@ -216,4 +218,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Wed Sep 27 13:49:01 UTC 2023 by jmac.
+---- Last modified: Thu Sep 28 11:33:02 UTC 2023 by jmac.
