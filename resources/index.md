@@ -1,5 +1,14 @@
 # Detailed schedule and resources
 
+## Class 16
+
+Social/Ethical class III: Social good in computing. Some students were
+absent for legitimate reasons and requested notes on the class
+content, so these notes are being made available to all students out
+of fairness:
+* [Notes on social good in computing, including open source software](class16/social-ethical-III-notes.md).
+
+
 ## Class 15
 
 Code for demonstrating guardians:
@@ -218,4 +227,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Thu Sep 28 11:33:02 UTC 2023 by jmac.
+---- Last modified: Mon Oct 02 18:39:53 UTC 2023 by jmac.
