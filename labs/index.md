@@ -22,3 +22,14 @@ Lab instructions:
 * [lab 5 instructions](lab05-v2.docx) &nbsp;&nbsp;&nbsp;<font color="red">minor change to the optional part on 9/28/2023</font>
 <!-- * [lab 6 instructions](lab06.docx), extra materials: [lab06-materials.zip](lab06-materials.zip) -->
 <!-- * [lab 10 instructions](lab10-final-project.docx), [lab 10 materials](lab10-materials.zip) -->
+* practice lab exam: This is ungraded practice for next week's lab
+  exam. Feel free to take it under realistic exam conditions, or to
+  ask for help, whichever is most useful for you. For reference, here
+  are the exam conditions for the lab exam:
+  - you can consult course materials and your own notes, homework,
+  previous labs, The course textbook, the course website, and Moodle
+  - You may not consult any other external website
+  - You may not perform web searches
+  - You may not use any other tools such as artificial intelligence
+    assistance for programming, online forums, or any other form of
+    assistance
