@@ -26,10 +26,13 @@ Lab instructions:
   exam. Feel free to take it under realistic exam conditions, or to
   ask for help, whichever is most useful for you. For reference, here
   are the exam conditions for the lab exam:
-  - you can consult course materials and your own notes, homework,
-  previous labs, The course textbook, the course website, and Moodle
-  - You may not consult any other external website
-  - You may not perform web searches
+  - You can consult course materials, your own notes, homework,
+  homework solutions, previous labs, the course textbook, the course
+  website, Moodle, external sites linked directly from the course
+  homepage (including Python standard library, Turtle documentation,
+  graphics.py documentation).
+  - You may not consult any other external website.
+  - You may not perform web searches.
   - You may not use any other tools such as artificial intelligence
     assistance for programming, online forums, or any other form of
-    assistance
+    assistance.
