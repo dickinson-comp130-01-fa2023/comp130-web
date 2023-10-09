@@ -1,5 +1,19 @@
 # Detailed schedule and resources
 
+## Class 19
+
+* Advising discussion for course selection. Please see the [notes on course selection](class19/course-selection.docx).
+* Code introducing the idea of recursion: [recursion_example.py](class19/recursion_example.py)
+
+## Class 18
+
+Written exam 1
+
+## Class 17
+
+Exam review
+
+
 ## Class 16
 
 Social/Ethical class III: Social good in computing. Some students were
@@ -227,4 +241,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Mon Oct 02 18:39:53 UTC 2023 by jmac.
+---- Last modified: Mon Oct 09 02:14:42 UTC 2023 by jmac.
