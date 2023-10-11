@@ -1,5 +1,12 @@
 # Detailed schedule and resources
 
+## Class 20
+
+* Code for fruitful function examples:
+  - [make_cheer.py](class20/make_cheer.py)
+  - [make_cheer_completed.py](class20/make_cheer_completed.py)
+
+
 ## Class 19
 
 * Advising discussion for course selection. Please see the [notes on course selection](class19/course-selection.docx).
@@ -241,4 +248,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Mon Oct 09 02:14:42 UTC 2023 by jmac.
+---- Last modified: Wed Oct 11 00:44:47 UTC 2023 by jmac.
