@@ -22,3 +22,20 @@ worth a total of 50 points on the exam. So you should budget your time
 at the rate of about one point per minute.  Try to allocate your time
 wisely: spend only about 10 minutes on a 10-point question, and about
 5 minutes on a 5-point question, and so on. 
+
+
+## Lab exam 1
+
+The exam covers programming techniques from labs 1-5 and topics
+1-5. It will be similar in style and content to the practice lab
+exam. The conditions for the exam are as follows.
+* You can consult course materials, your own notes, homework, homework
+  solutions, previous labs, the course textbook, the course website,
+  Moodle, external sites linked directly from the course homepage
+  (including Python standard library, Turtle documentation,
+  graphics.py documentation).
+* You may not consult any other external website.
+* You may not perform web searches.
+* You may not use any other tools such as artificial intelligence
+  assistance for programming, online forums, or any other form of
+  assistance.
