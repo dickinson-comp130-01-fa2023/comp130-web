@@ -36,3 +36,4 @@ Lab instructions:
   - You may not use any other tools such as artificial intelligence
     assistance for programming, online forums, or any other form of
     assistance.
+* [lab 6 instructions](lab06.docx), [lab 6 materials](lab06-materials.zip) **please read in advance, some preparatory work is needed for this lab**

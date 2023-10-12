@@ -1,5 +1,11 @@
 # Detailed schedule and resources
 
+## Class 21
+
+* Code for fruitful recursion examples:
+  - [fruitful_recursion.py](class21/fruitful_recursion.py)
+  - [recursion_practice.py](class21/recursion_practice.py)
+
 ## Class 20
 
 * Code for fruitful function examples:
@@ -248,4 +254,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Wed Oct 11 00:44:47 UTC 2023 by jmac.
+---- Last modified: Thu Oct 12 14:34:14 UTC 2023 by jmac.
