@@ -49,3 +49,8 @@ def print_many_cheers():
         for j in range(3):
             print(my_cheer, end=' ')
         print()
+
+
+# top-level code -- prints the cheers
+print_many_cheers()
+
