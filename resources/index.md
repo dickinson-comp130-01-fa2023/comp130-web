@@ -2,9 +2,13 @@
 
 ## Class 21
 
+* Please read the instructions for Lab 6 and complete the required
+  preparation before the start of our next lab session.
+
 * Code for fruitful recursion examples:
   - [fruitful_recursion.py](class21/fruitful_recursion.py)
   - [recursion_practice.py](class21/recursion_practice.py)
+  
 
 ## Class 20
 
@@ -254,4 +258,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Thu Oct 12 14:34:14 UTC 2023 by jmac.
+---- Last modified: Thu Oct 12 14:40:08 UTC 2023 by jmac.
