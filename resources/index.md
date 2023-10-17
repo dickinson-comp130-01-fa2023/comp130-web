@@ -1,5 +1,10 @@
 # Detailed schedule and resources
 
+## Class 22
+
+* Please complete the anonymous [mid-semester survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9UN01YVUk5SFdGQjZXQkJMWFBNMjJZSlFDUS4u).
+
+
 ## Class 21
 
 * Please read the instructions for Lab 6 and complete the required
@@ -258,4 +263,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Thu Oct 12 14:40:08 UTC 2023 by jmac.
+---- Last modified: Tue Oct 17 13:57:44 UTC 2023 by jmac.
