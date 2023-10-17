@@ -3,6 +3,8 @@
 ## Class 22
 
 * Please complete the anonymous [mid-semester survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9UN01YVUk5SFdGQjZXQkJMWFBNMjJZSlFDUS4u).
+* Code for demonstrating test functions:
+  - [test_demo.py](class22/test_demo.py)
 
 
 ## Class 21
@@ -263,4 +265,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Tue Oct 17 13:57:44 UTC 2023 by jmac.
+---- Last modified: Tue Oct 17 20:12:25 UTC 2023 by jmac.
