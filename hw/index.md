@@ -22,3 +22,4 @@ Assignments:
 *   [homework assignment 6](hw6.docx)
 *   [homework assignment 7](hw7.docx)
 *   [homework assignment 8](hw8.docx)
+*   [homework assignment 9](hw9.docx)
