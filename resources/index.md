@@ -1,5 +1,14 @@
 # Detailed schedule and resources
 
+## Class 23
+
+* Code for demonstrating while loops:
+  - [while_loops.py](class23/while_loops.py)
+  - [while_loops_solution.py](class23/while_loops_solution.py)
+  - [practice_killing_python.py](class23/practice_killing_python.py)
+
+
+
 ## Class 22
 
 * Please complete the anonymous [mid-semester survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9UN01YVUk5SFdGQjZXQkJMWFBNMjJZSlFDUS4u).
@@ -265,4 +274,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Tue Oct 17 20:12:25 UTC 2023 by jmac.
+---- Last modified: Fri Oct 20 00:32:22 UTC 2023 by jmac.
