@@ -7,6 +7,7 @@ def dice_rolls_for_20():
     count = 0
     while True:
         roll = random.randint(1, 6)
+        count = count + 1
         if roll == 20:
             break
     return count

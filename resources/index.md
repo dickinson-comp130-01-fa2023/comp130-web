@@ -1,5 +1,23 @@
 # Detailed schedule and resources
 
+## Class 24
+
+* We continue from Class 23, covering the break keyword
+* The rest of the class presents two examples of interesting
+  algorithms: 
+  1. finding square roots using Newton's method (from textbook section 7.5);
+  2. solving an equation using the [bisection
+     method](https://en.wikipedia.org/wiki/Bisection_method).
+* _Note that detailed knowledge of these algorithms is not required for
+  this course. These are just intended as interesting examples, to
+  demonstrate the power of what we have already learned this
+  semester. You are not required to memorize Newton's method or the
+  bisection method._
+* Example code:
+  - [square_root.py](class24/square_root.py)
+  - [solve_by_bisection.py](class24/solve_by_bisection.py)
+  - [solve_by_bisection_completed.py](class24/solve_by_bisection_completed.py)
+
 ## Class 23
 
 * Code for demonstrating while loops:
@@ -274,4 +292,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Fri Oct 20 00:32:22 UTC 2023 by jmac.
+---- Last modified: Sat Oct 21 19:55:47 UTC 2023 by jmac.
