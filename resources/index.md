@@ -2,7 +2,7 @@
 
 ## Class 24
 
-* We continue from Class 23, covering the break keyword
+* We continue from Class 23, covering the `break` keyword
 * The rest of the class presents two examples of interesting
   algorithms: 
   1. finding square roots using Newton's method (from textbook section 7.5);
@@ -292,4 +292,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Sat Oct 21 19:55:47 UTC 2023 by jmac.
+---- Last modified: Sat Oct 21 19:56:43 UTC 2023 by jmac.
