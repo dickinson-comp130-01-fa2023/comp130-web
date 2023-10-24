@@ -1,5 +1,23 @@
 # Lab partners
 
+Lab 7 partners (same as lab 6)
+
+| partner 1         | partner 2          |
+|-------------------|--------------------|
+|Fathima Mohammadi |       Paul MacDonald|
+|Maxwell Collins | Kate Mackin|
+|Phu Nguyen |      Kevin Tran|
+|Olivia Hobbs |    Harrison Nguyen|
+|Minh Le | Anne Pham|
+|Max Abah |        Heeryung Choi|
+|Nishtha Sharma |  Leah Ho|
+|Arthur Trinh |    Tumi Olanrewaju|
+|Zaana Gurung |    Ben Brandt|
+|Jenna Nowland |   Liam Roberts|
+|Jessie Pham |     Nam Nguyen|
+|HyunYoung Cho |   Son Nguyen|
+
+
 Lab 6 partners (new partners)
 
 
