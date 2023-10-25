@@ -2,6 +2,12 @@
 
 ## Class 25
 
+* Code for string indexing, slices, and iteration:
+  - [string_practice.py](class25/string_practice.py)
+
+
+## Class 25
+
 * Code for practicing debugging:
   - [debug_practice.py](class25/debug_practice.py)
 
@@ -298,4 +304,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Wed Oct 25 12:13:11 UTC 2023 by jmac.
+---- Last modified: Wed Oct 25 16:06:44 UTC 2023 by jmac.
