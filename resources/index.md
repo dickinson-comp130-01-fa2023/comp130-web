@@ -1,5 +1,11 @@
 # Detailed schedule and resources
 
+## Class 25
+
+* Code for practicing debugging:
+  - [debug_practice.py](class25/debug_practice.py)
+
+
 ## Class 24
 
 * We continue from Class 23, covering the `break` keyword
@@ -292,4 +298,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Sat Oct 21 19:56:43 UTC 2023 by jmac.
+---- Last modified: Wed Oct 25 12:13:11 UTC 2023 by jmac.
