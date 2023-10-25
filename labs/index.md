@@ -37,4 +37,4 @@ Lab instructions:
     assistance for programming, online forums, or any other form of
     assistance.
 * [lab 6 instructions](lab06.docx), [lab 6 materials](lab06-materials.zip) **please read in advance, some preparatory work is needed for this lab**
-* [lab 7 instructions](lab06.docx), [lab 7 materials](lab07-materials.zip) 
+* [lab 7 instructions](lab07.docx), [lab 7 materials](lab07-materials.zip) 
