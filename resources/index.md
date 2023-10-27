@@ -4,6 +4,7 @@
 
 * Code for string indexing, slices, and iteration:
   - [string_practice.py](class26/string_practice.py)
+  - [string_practice_completed.py](class26/string_practice_completed.py)
 
 
 ## Class 25
@@ -304,4 +305,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Fri Oct 27 00:33:35 UTC 2023 by jmac.
+---- Last modified: Fri Oct 27 14:50:10 UTC 2023 by jmac.
