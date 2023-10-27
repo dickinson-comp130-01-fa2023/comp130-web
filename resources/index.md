@@ -3,7 +3,7 @@
 ## Class 25
 
 * Code for string indexing, slices, and iteration:
-  - [string_practice.py](class25/string_practice.py)
+  - [string_practice.py](class26/string_practice.py)
 
 
 ## Class 25
@@ -304,4 +304,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Wed Oct 25 16:06:44 UTC 2023 by jmac.
+---- Last modified: Fri Oct 27 00:33:35 UTC 2023 by jmac.
