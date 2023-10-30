@@ -1,6 +1,14 @@
 # Detailed schedule and resources
 
-## Class 25
+## Class 27
+
+* Code for string methods:
+  - [string_methods.py](class27/string_methods.py)
+  - [string_methods_completed.py](class27/string_methods_completed.py)
+
+
+
+## Class 26
 
 * Code for string indexing, slices, and iteration:
   - [string_practice.py](class26/string_practice.py)
@@ -305,4 +313,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Fri Oct 27 14:50:10 UTC 2023 by jmac.
+---- Last modified: Mon Oct 30 03:58:46 UTC 2023 by jmac.
