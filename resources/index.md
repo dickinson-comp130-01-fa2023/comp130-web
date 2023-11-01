@@ -1,5 +1,12 @@
 # Detailed schedule and resources
 
+## Class 28
+
+* More string method challenges:
+  - [more_string_methods.py](class28/more_string_methods.py)
+  - [more_string_methods_completed.py](class28/more_string_methods_completed.py)
+
+
 ## Class 27
 
 * Code for string methods:
@@ -313,4 +320,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Mon Oct 30 03:58:46 UTC 2023 by jmac.
+---- Last modified: Wed Nov 01 00:57:38 UTC 2023 by jmac.
