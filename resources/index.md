@@ -4,6 +4,9 @@
 
 * Here is a link to the crosswords file mentioned in the textbook:
   - [https://www.gutenberg.org/files/3201/files/CROSSWD.TXT](https://www.gutenberg.org/files/3201/files/CROSSWD.TXT)
+  - We won't use the crosswords file in class, but you can use it to
+    understand the textbook properly and do the optional textbook
+    exercises.
 * Here is a file containing two poems that we will use in class:
   - [two-poems.txt](class29/two-poems.txt)
 * In class we will work on tasks such as:
@@ -336,4 +339,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Fri Nov 03 03:09:58 UTC 2023 by jmac.
+---- Last modified: Fri Nov 03 03:15:28 UTC 2023 by jmac.
