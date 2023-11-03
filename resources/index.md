@@ -1,5 +1,21 @@
 # Detailed schedule and resources
 
+## Class 29
+
+* Here is a link to the crosswords file mentioned in the textbook:
+  - [https://www.gutenberg.org/files/3201/files/CROSSWD.TXT](https://www.gutenberg.org/files/3201/files/CROSSWD.TXT)
+* Here is a file containing two poems that we will use in class:
+  - [two-poems.txt](class29/two-poems.txt)
+* In class we will work on tasks such as:
+  - print the first line of the poems file
+  - print the first five lines of the poems file
+  - save every second line in a new file called `some-lines.txt`
+  - print the two lines that tell us the authors of the poems (they begin with "BY")
+  - find the empty line separating the two poems and print its line number
+  - save the first poem in a new file called `first-poem.txt`, and the second poem in a new file called `second-poem.txt`
+
+
+
 ## Class 28
 
 * More string method challenges:
@@ -320,4 +336,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Wed Nov 01 00:57:38 UTC 2023 by jmac.
+---- Last modified: Fri Nov 03 03:09:58 UTC 2023 by jmac.
