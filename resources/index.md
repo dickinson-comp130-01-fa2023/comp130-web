@@ -16,7 +16,8 @@
   - print the two lines that tell us the authors of the poems (they begin with "BY")
   - find the empty line separating the two poems and print its line number
   - save the first poem in a new file called `first-poem.txt`, and the second poem in a new file called `second-poem.txt`
-
+* Solutions to the first few tasks above are available:
+  - [file_challenge_solutions.py](class29/file_challenge_solutions.py)
 
 
 ## Class 28
@@ -339,4 +340,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Fri Nov 03 03:15:28 UTC 2023 by jmac.
+---- Last modified: Fri Nov 03 11:59:56 UTC 2023 by jmac.
