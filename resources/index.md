@@ -1,5 +1,12 @@
 # Detailed schedule and resources
 
+## Class 30
+
+* Code for CSV files:
+  - [courses.csv](class30/courses.csv)
+  - [csv_demos.py](class30/csv_demos.py)
+  - [csv_demos_solution.py](class30/csv_demos_solution.py)
+
 ## Class 29
 
 * Here is a link to the crosswords file mentioned in the textbook:
@@ -340,4 +347,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Fri Nov 03 11:59:56 UTC 2023 by jmac.
+---- Last modified: Mon Nov 06 01:33:06 UTC 2023 by jmac.
