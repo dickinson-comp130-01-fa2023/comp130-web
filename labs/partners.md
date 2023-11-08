@@ -1,17 +1,36 @@
 # Lab partners
 
+Lab 8 partners (new partners)
+
+
+| partner 1         | partner 2          |
+|-------------------|--------------------|
+|Fathima Mohammadi  |       Olivia Hobbs|
+|Max Abah  |        Kevin Tran|
+|Maxwell Collins  | Paul MacDonald|
+|Phu Nguyen  |      Minh Le|
+|Anne Pham  |       Zaana Gurung|
+|Nishtha Sharma  |  Heeryung Choi|
+|Arthur Trinh  |    Son Nguyen|
+|Kate Mackin  |     Harrison Nguyen|
+|Jenna Nowland  |   Tumi Olanrewaju|
+|Jessie Pham  |     Liam Roberts|
+|Ben Brandt  |      Nam Nguyen|
+|HyunYoung Cho  |   Leah Ho|
+
+
 Lab 7 partners (same as lab 6)
 
 | partner 1         | partner 2          |
 |-------------------|--------------------|
-|Fathima Mohammadi |       Paul MacDonald|
-|Maxwell Collins | Kate Mackin|
-|Phu Nguyen |      Kevin Tran|
-|Olivia Hobbs |    Harrison Nguyen|
-|Minh Le | Anne Pham|
-|Max Abah |        Heeryung Choi|
-|Nishtha Sharma |  Leah Ho|
-|Arthur Trinh |    Tumi Olanrewaju|
+|Fathima Mohammadi  |       Paul MacDonald|
+|Maxwell Collins    | Kate Mackin|
+|Phu Nguyen         |      Kevin Tran|
+|Olivia Hobbs       |    Harrison Nguyen|
+|Minh Le            | Anne Pham|
+|Max Abah           |        Heeryung Choi|
+|Nishtha Sharma     |  Leah Ho|
+|Arthur Trinh       |    Tumi Olanrewaju|
 |Zaana Gurung |    Ben Brandt|
 |Jenna Nowland |   Liam Roberts|
 |Jessie Pham |     Nam Nguyen|
