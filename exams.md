@@ -39,3 +39,8 @@ exam. The conditions for the exam are as follows.
 * You may not use any other tools such as artificial intelligence
   assistance for programming, online forums, or any other form of
   assistance.
+
+
+## Written exam 2
+
+The exam covers topics 6-10 and Social/Ethical III. All other aspects of the exam are identical to Written Exam 1.

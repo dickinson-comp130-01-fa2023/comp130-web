@@ -1,5 +1,12 @@
 # Detailed schedule and resources
 
+## Class 31
+
+* Code for list basics:
+  - [list_basics.py](class31/list_basics.py)
+  - [list_basics_completed.py](class31/list_basics_completed.py)
+
+
 ## Class 30
 
 * Code for CSV files:
@@ -347,4 +354,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Mon Nov 06 01:33:06 UTC 2023 by jmac.
+---- Last modified: Wed Nov 08 03:51:39 UTC 2023 by jmac.
