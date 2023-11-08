@@ -3,7 +3,7 @@
 <!-- ![WCBC with cat](wcbc-cat.jpg) -->
 
 * [Syllabus](syllabus-8-24-2023.docx)
-* [Overview Schedule](comp130-schedule-11-2-2023.xlsx)  &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 11/2/2023</font>
+* [Overview Schedule](comp130-schedule-11-8-2023.xlsx)  &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 11/8/2023</font>
 * [Detailed schedule and resources](resources)
 * [Textbook (Think Python)](https://greenteapress.com/wp/think-python-2e/)
 * [Homework assignments](hw)
@@ -23,4 +23,4 @@
 
 
 ----
-Last modified: Wed Nov 08 01:42:34 UTC 2023 by jmac.
+Last modified: Wed Nov 08 18:54:32 UTC 2023 by jmac.

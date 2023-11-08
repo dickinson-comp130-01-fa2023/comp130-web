@@ -44,3 +44,9 @@ exam. The conditions for the exam are as follows.
 ## Written exam 2
 
 The exam covers topics 6-10 and Social/Ethical III. All other aspects of the exam are identical to Written Exam 1.
+
+
+## Lab exam 2
+
+The exam covers programming techniques from labs 1-8 and topics
+1-10. All other aspects of the exam are identical to Lab Exam 1.
