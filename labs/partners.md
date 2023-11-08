@@ -9,8 +9,8 @@ Lab 8 partners (new partners)
 |Max Abah  |        Kevin Tran|
 |Maxwell Collins  | Paul MacDonald|
 |Phu Nguyen  |      Minh Le|
-|Anne Pham  |       Zaana Gurung|
-|Nishtha Sharma  |  Heeryung Choi|
+|Zaana Gurung|
+|Nishtha Sharma  | Anne Pham |
 |Arthur Trinh  |    Son Nguyen|
 |Kate Mackin  |     Harrison Nguyen|
 |Jenna Nowland  |   Tumi Olanrewaju|
