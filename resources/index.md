@@ -1,5 +1,21 @@
 # Detailed schedule and resources
 
+## Class 32
+
+* Code for the *reduce*, *map*, and *filter* list processing patterns:
+  - [reduce_map_filter.py](class32/reduce_map_filter.py)
+  - [reduce_map_filter_completed.py](class32/reduce_map_filter_completed.py)
+
+* Code and files for `join` and `split` string methods:
+  - [split_demo.py](class32/split_demo.py)
+  - [join_demo.py](class32/join_demo.py)
+  - [join_and_split_challenge.py](class32/join_and_split_challenge.py)
+  - [join_and_split_challenge_completed.py](class32/join_and_split_challenge_completed.py)
+  - [courses.csv](class32/courses.csv)
+  - [output.txt](class32/output.txt)
+
+
+
 ## Class 31
 
 * Code for list basics:
@@ -354,4 +370,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Wed Nov 08 03:51:39 UTC 2023 by jmac.
+---- Last modified: Fri Nov 10 03:21:15 UTC 2023 by jmac.
