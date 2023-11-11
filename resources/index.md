@@ -1,5 +1,13 @@
 # Detailed schedule and resources
 
+## Class 33
+
+* Challenges and solution for objects, values, and references:
+  - [references.py](class33/references.py)
+  - [explanation-of-references.pptx](class33/explanation-of-references.pptx)
+  
+* Bring review questions for exam review next time.
+
 ## Class 32
 
 * Code for the *reduce*, *map*, and *filter* list processing patterns:
@@ -370,4 +378,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Fri Nov 10 03:21:15 UTC 2023 by jmac.
+---- Last modified: Sat Nov 11 20:50:10 UTC 2023 by jmac.
