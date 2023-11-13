@@ -1,5 +1,21 @@
 # Detailed schedule and resources
 
+<!-- ## Class 36 -->
+
+<!-- There is no class meeting for this lecture slot. A prerecorded video -->
+<!-- lecture is available instead. The video lecture is split into two -->
+<!-- parts (both on Moodle): -->
+<!-- * [Class 36 lecture, part 1]() -->
+<!-- * [Class 36 lecture, part 2]() -->
+
+<!-- Code for the video lecture is also available: -->
+<!-- * [dictionary_basics.py](class36/dictionary_basics.py) -->
+<!-- * [dictionary_basics_completed.py](class36/dictionary_basics_completed.py) -->
+<!-- * [dictionary_vs_list.py](class36/dictionary_vs_list.py) -->
+
+
+
+
 ## Class 33
 
 * Challenges and solution for objects, values, and references:
@@ -378,4 +394,4 @@ talk about it in lab. Key ideas:
 
 
 
----- Last modified: Sat Nov 11 20:50:10 UTC 2023 by jmac.
+---- Last modified: Mon Nov 13 02:26:38 UTC 2023 by jmac.
