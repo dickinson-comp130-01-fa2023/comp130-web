@@ -40,3 +40,4 @@ Lab instructions:
 * [lab 7 instructions](lab07.docx), [lab 7 materials](lab07-materials.zip) 
 * [lab 8 instructions](lab08.docx), [lab 8 materials](lab08-materials.zip) 
 * [lab exam 2 review](labexam2-review.docx)
+* [lab 10 instructions](lab10.docx), [lab 10 materials](lab10-materials.zip) 
