@@ -50,3 +50,23 @@ The exam covers topics 6-10 and Social/Ethical III. All other aspects of the exa
 
 The exam covers programming techniques from labs 1-8 and topics
 1-10. All other aspects of the exam are identical to Lab Exam 1.
+
+
+## Final written exam
+
+The final exam covers all material studied this semester, including
+topics 1-11 and Social/Ethical I-III. The style and rules for the
+final exam are similar to the Written Exam 1 and Written
+Exam 2. Details are as follows.
+
+The exam is "closed book," meaning that you may not consult any
+printed, written, electronic, or other materials. Exception: you may
+bring into the exam _two pages_ of handwritten notes (two sides of US
+letter sized paper only).
+
+You may not use electronic devices during the exam. Answers must be
+written on paper using pen or pencil.
+
+The duration of the exam is 180 minutes, and there will be questions
+worth a total of 140 points on the exam. So you should budget your time
+at the rate of about one point per minute.
