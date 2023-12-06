@@ -40,4 +40,4 @@ Lab instructions:
 * [lab 7 instructions](lab07.docx), [lab 7 materials](lab07-materials.zip) 
 * [lab 8 instructions](lab08.docx), [lab 8 materials](lab08-materials.zip) 
 * [lab exam 2 review](labexam2-review.docx)
-* [lab 10 instructions](lab10-final-project.docx), [lab 10 materials](lab10-materials.zip), corrected version of [authorship_tests.txt](authorship_tests.txt) (updated December 6 at 2:00 PM)
+* [lab 10 instructions](lab10-final-project.docx), updated [lab 10 materials](lab10-materials.zip) (updated December 6 at 3:30 PM), corrected version of [authorship_tests.txt](authorship_tests.txt) (updated December 6 at 2:00 PM)
